@@ -1,0 +1,7 @@
+#tooltip {
+	fill: white;
+}
+
+circle::hover {
+	cursor: pointer;
+}
